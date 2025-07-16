@@ -114,7 +114,7 @@
 
 @layer base {
   * {
-    @apply border outline-ring/50;
+    @apply border ring-1 ring-gray-500; /* or your actual color */
   }
   body {
     @apply bg-background text-foreground;
