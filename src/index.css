@@ -2,10 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom styles to remove unwanted borders */
-* {
-  outline: none !important;
-  box-shadow: none !important;
-  border: none !important;
-}
 
